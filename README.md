@@ -1,4 +1,4 @@
 # pwnedu-home
-pwnedu-site
+pwnedunet-site
 
 home pwnedu of coding projects
