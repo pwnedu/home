@@ -121,6 +121,11 @@ a.menu:hover {
 	height: auto;
 }
 
+.image:hover {
+	border: 1px solid #777;
+	opacity: 80%;
+}
+
 .overlay {
 	position: absolute;
 	bottom: 100%;
