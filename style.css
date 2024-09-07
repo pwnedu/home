@@ -50,13 +50,14 @@ a.five:hover {
 }
 /* Style the header */
 .header {
-  background-color: #f1f1f1;
-  padding: 20px;
-  text-align: center;
+	background-color: #f1f1f1;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none
 }
 /* Style the footer */
 .footer {
-  background-color: #f1f1f1;
-  text-align: center;
-  padding: 10px;
+	background-color: #f1f1f1;
+	text-align: center;
+	padding: 10px;
 }
