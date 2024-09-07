@@ -16,6 +16,7 @@ a.five:hover {
 	text-decoration: underline
 }
 .head {
+	background-color: #000000;
 	color: #ffffff;
 	font-weight: bold;
 	font-size: 36px;
@@ -23,12 +24,10 @@ a.five:hover {
 	font-family: "Courier New", Courier, monospace;
 }
 .menu {
+	background-color: #000000;
 	color: #ffffff;
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
 	font-family: "Courier New", Courier, monospace;
-}
-.bg {
-	color: #000000;
 }
