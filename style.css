@@ -15,7 +15,7 @@ a.five:visited {
 a.five:hover {
 	text-decoration: underline
 }
-.head {
+head {
 	background-color: #000000;
 	color: #ffffff;
 	font-weight: bold;
