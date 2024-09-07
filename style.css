@@ -37,6 +37,61 @@ p {
 	font-family: "Courier New", Courier, monospace;
 }
 
+/* Style class=menu links */
+a.menu:link {
+	color: #b30000;
+	font-weight: bold;
+	font-size: 18px;
+	font-family: "Courier New", Courier, monospace; 
+	text-decoration: none
+}
+a.menu:visited {
+	color: #b30000;
+	font-weight: bold;
+	font-size: 18px;
+	font-family: "Courier New", Courier, monospace;
+	text-decoration: none
+}
+a.menu:hover {
+	text-decoration: underline;
+}
+.menu {
+	color: #ffffff;
+	text-align: center;
+	font-size: 18px;
+	font-family: "Courier New", Courier, monospace;
+	text-decoration: none
+}
+
+/* Style class=content sections */
+.header {
+	background-color: #0000ff;
+	color: #00ff00;
+	padding: 20px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 48px;
+	font-family: "Georgia", Courier, monospace;
+	text-decoration: none
+}
+.content {
+	/* background-color: #000000; */
+	color: #ffffff;
+	text-align: center;
+	font-size: 14px;
+	padding: 20px;
+}
+.footer {
+	background-color: #0000ff;
+	color: #00ff00;
+	padding: 20px, 20px, 100%, 20px;
+	text-align: center;
+	font-weight: normal;
+	font-size: 10px;
+	font-family: "Georgia", Courier, monospace;
+	text-decoration: none
+}
+
 /* Logo Style class=image */
 div.image {
 	margin: 5px;
@@ -99,59 +154,4 @@ div.desc {
 	content: "";
 	display: table;
 	clear: both;
-}
-
-/* Style class=menu links */
-a.menu:link {
-	color: #b30000;
-	font-weight: bold;
-	font-size: 18px;
-	font-family: "Courier New", Courier, monospace; 
-	text-decoration: none
-}
-a.menu:visited {
-	color: #b30000;
-	font-weight: bold;
-	font-size: 18px;
-	font-family: "Courier New", Courier, monospace;
-	text-decoration: none
-}
-a.menu:hover {
-	text-decoration: underline;
-}
-.menu {
-	color: #ffffff;
-	text-align: center;
-	font-size: 18px;
-	font-family: "Courier New", Courier, monospace;
-	text-decoration: none
-}
-
-/* Style class=content sections */
-.header {
-	background-color: #0000ff;
-	color: #00ff00;
-	padding: 20px;
-	text-align: center;
-	font-weight: bold;
-	font-size: 48px;
-	font-family: "Georgia", Courier, monospace;
-	text-decoration: none
-}
-.content {
-	/* background-color: #000000; */
-	color: #ffffff;
-	text-align: center;
-	font-size: 14px;
-	padding: 20px;
-}
-.footer {
-	background-color: #0000ff;
-	color: #00ff00;
-	padding: 20px;
-	text-align: center;
-	font-weight: normal;
-	font-size: 10px;
-	font-family: "Georgia", Courier, monospace;
-	text-decoration: none
 }
