@@ -15,7 +15,7 @@ a.five:visited {
 a.five:hover {
 	text-decoration: underline
 }
-head {
+h1 {
 	background-color: #000000;
 	color: #ffffff;
 	font-weight: bold;
@@ -23,11 +23,11 @@ head {
 	text-decoration: underline;
 	font-family: "Courier New", Courier, monospace;
 }
-.menu {
+p {
 	background-color: #000000;
 	color: #aa00ff;
 	font-weight: bold;
-	font-size: 22px;
+	font-size: 18px;
 	text-decoration: none;
 	font-family: "Courier New", Courier, monospace;
 }
