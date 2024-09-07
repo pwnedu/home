@@ -76,7 +76,6 @@ a.menu:hover {
 	top: 8px;
 	left: 8px;
 	right: 8px;
-	bottom: 8px;
 	padding-top: 20px;
 	padding-right: 5px;
 	padding-left: 5px;
@@ -96,7 +95,6 @@ a.menu:hover {
 .footer {
 	background-color: #0000ff;
 	position: fixed;
-	top: 8px;
 	left: 8px;
 	right: 8px;
 	bottom: 8px;
