@@ -234,7 +234,9 @@ div.desc {
 	--animation-duration: var(--duration, 800ms);
 	--animation-iterations: var(--iterations, 1);
 	position: relative;
-	font-size: 10vw;
+	/* font-size: 10vw; */
+	font-size: 48px;
+	font-family: 'Segoe UI Black','Arial Black','Arial', sans-serif;
 	animation-name: clip-text;
 	color: #00ff00;
 	white-space: nowrap;
@@ -248,7 +250,7 @@ div.desc {
 		left: 0;
 		right: 0;
 		bottom: 0;
-		background-color: #0000ff;
+		background-color: #00ff00;
 		transform: scaleX(0);
 		transform-origin: 0 50%;
 		pointer-events: none;
