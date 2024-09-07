@@ -114,7 +114,7 @@ a.menu:hover {
 }
 
 /* Overlay Style class=image */
-.imagecontainer {
+.container {
 	position: relative;
 	width: 256px;
 }
