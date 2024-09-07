@@ -76,7 +76,7 @@ a.menu:hover {
 }
 .content {
 	/* background-color: #000000; */
-	color: #ffffff;
+	/* color: #ffffff; */
 	text-align: center;
 	font-size: 14px;
 	padding: 20px;
@@ -84,7 +84,7 @@ a.menu:hover {
 .footer {
 	background-color: #0000ff;
 	color: #00ff00;
-	padding: 20px, 20px, 100%, 20px;
+	padding: 20px;
 	text-align: center;
 	font-weight: normal;
 	font-size: 10px;
@@ -96,6 +96,7 @@ a.menu:hover {
 div.image {
 	margin: 5px;
   	border: none;
+	width: calc(100% - 200px);
 }
 div.image:hover {
 	opacity: 80%;
