@@ -33,6 +33,27 @@ p {
 	text-decoration: none;
 	font-family: "Courier New", Courier, monospace;
 } */
+div.image {
+	/* background-color: #000000; */
+	/* color: #ffffff; */
+	/* padding: 20px; */
+	/* text-align: center; */
+	margin: 5px;
+  	border: 1px solid #ccc;
+	width: 256px; 
+	height: 256px;
+}
+div.image:hover {
+	border: 1px solid #777;
+}
+div.image img {
+	width: 100%;
+	height: auto;
+}
+div.desc {
+	padding: 15px;
+	text-align: center;
+}
 /* Style class=menu links */
 a.menu:link {
 	color: #b30000;
@@ -74,14 +95,6 @@ a.menu:hover {
 	text-align: center;
 	font-size: 14px;
 	padding: 20px;
-}
-.image {
-	/* background-color: #000000; */
-	/* color: #ffffff; */
-	text-align: center;
-	padding: 20px;
-	width: 256px; 
-	height: 256px;
 }
 .footer {
 	background-color: #0000ff;
