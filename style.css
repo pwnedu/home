@@ -235,8 +235,8 @@ div.desc {
 	--animation-iterations: var(--iterations, 1);
 	position: relative;
 	/* font-size: 10vw; */
-	font-size: 48px;
-	font-family: 'Segoe UI Black','Arial Black','Arial', sans-serif;
+	/* font-size: 48px; */
+	/* font-family: 'Segoe UI Black','Arial Black','Arial', sans-serif; */
 	animation-name: clip-text;
 	color: #00ff00;
 	white-space: nowrap;
