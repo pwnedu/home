@@ -328,7 +328,7 @@ div.desc {
     }
   }
   &.state-3 {
-    color: black;
+    color: #00ff00;
     &:before {
       width: 0;
     }
