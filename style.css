@@ -73,7 +73,7 @@ a.menu:hover {
 .header {
 	background-color: #0000ff;
 	color: #00ff00;
-	padding: 20px;
+	padding: 20px, 5px;
 	text-align: center;
 	font-weight: bold;
 	font-size: 48px;
