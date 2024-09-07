@@ -8,18 +8,29 @@ body {
 }
 h1 {
 	color: #ffffff;
+	text-align: center;
 	font-weight: bold;
 	font-size: 36px;
 	text-decoration: underline;
 	font-family: "Courier New", Courier, monospace;
 }
-p {
+h2 {
 	color: #aa00ff;
+	text-align: center;
 	font-weight: bold;
 	font-size: 18px;
 	text-decoration: none;
 	font-family: "Courier New", Courier, monospace;
 }
+p {
+	color: #aa00ff;
+	text-align: left;
+	font-weight: bold;
+	font-size: 18px;
+	text-decoration: none;
+	font-family: "Courier New", Courier, monospace;
+}
+/* Style the links */
 a.five:link {
 	color: #b30000;
 	font-weight: bold;
@@ -36,4 +47,16 @@ a.five:visited {
 }
 a.five:hover {
 	text-decoration: underline
+}
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+/* Style the footer */
+.footer {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 10px;
 }
