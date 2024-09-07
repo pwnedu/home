@@ -1,6 +1,7 @@
 /* Background Colour */
 body {
 	background-color: #000000;
+	align-items: center;
 }
 
 /* Default Styles */
@@ -345,8 +346,8 @@ div.desc {
 div {
   font-family: "Share Tech Mono", monospace;
 }
-body {
-/* height: 100vh; */
-  align-items: center;
-/* display: flex; */
-}
+/* body {
+	height: 100vh;
+	align-items: center;
+	display: flex;
+} */
