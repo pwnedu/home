@@ -2,7 +2,8 @@
 ## pwnedu /dev
 
 > [!NOTE]
-> My games, software and development tools website [pwnedu.net](https://pwnedu.net).
+> My games, software and development tools website [pwnedu.net](https://pwnedu.net). :shipit:
+> 
 > This site was built in html and css using [GitHub Pages](https://pages.github.com/).
 
 
