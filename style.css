@@ -129,11 +129,11 @@ a.menu:hover {
 .overlay {
 	position: absolute;
 	bottom: 100%;
-	left: 0;
+	left: -50;
 	right: 0;
 	background-color: #0000ff;
 	overflow: hidden;
-	width: 100%;
+	width: 200%;
 	height: 0;
 	transition: .5s ease;
 }
