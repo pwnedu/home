@@ -307,11 +307,11 @@ div.desc {
   text-transform: uppercase;
   &:before {
     content: "";
-    color: #0000ff;
+    color: #00ff00;
     position: absolute;
     top: 50%;
     left: 50%;
-    background: #00ff00;
+    background: #0000ff;
     width: 0;
     height: 1.2em;
     -webkit-transform: translate(-50%, -55%);
