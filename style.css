@@ -23,7 +23,7 @@ head {
 	text-decoration: underline;
 	font-family: "Courier New", Courier, monospace;
 }
-.menu {
+div.menu {
 	background-color: #000000;
 	color: #ffffff;
 	font-weight: bold;
