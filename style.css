@@ -39,7 +39,7 @@ p {
 
 /* Style class=menu links */
 a.menu:link {
-	color: #b30000;
+	color: #00ff00;
 	padding: 5px;
 	font-weight: bold;
 	font-size: 18px;
@@ -47,7 +47,7 @@ a.menu:link {
 	text-decoration: none
 }
 a.menu:visited {
-	color: #b30000;
+	color: #00ff00;
 	padding: 5px;
 	font-weight: bold;
 	font-size: 18px;
