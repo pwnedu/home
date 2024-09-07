@@ -92,7 +92,8 @@ a.menu:hover {
 	background-color: #0000ff;
 	position: fixed;
 	bottom: 10;
-	width: 100%;
+	left: 10;
+	right: 10;
 	color: #00ff00;
 	padding: 20px;
 	text-align: center;
