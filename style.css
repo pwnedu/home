@@ -31,3 +31,11 @@ a.five:hover {
 	text-decoration: none;
 	font-family: "Courier New", Courier, monospace;
 }
+.body {
+	background-color: #000000;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+	font-family: "Courier New", Courier, monospace;
+}
