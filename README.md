@@ -1,5 +1,4 @@
 # pwnedu-home
-## pwnedu /dev
 
 > [!NOTE]
 > This site was built in html and css using [GitHub Pages](https://pages.github.com/).
@@ -13,3 +12,4 @@
   <img alt="Shows blacked out logo in light mode and transparent logo in dark mode." src="https://pwnedu.net/logo128.png">
 </picture>
 
+## pwnedu /dev
