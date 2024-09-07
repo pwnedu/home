@@ -96,7 +96,7 @@ a.menu:hover {
 div.image {
 	margin: 5px;
   	border: none;
-	/* width: calc(100% - 200px); */
+	height: calc(100% - 200px);
 }
 div.image:hover {
 	opacity: 80%;
