@@ -293,7 +293,7 @@ div.desc {
 /* Style class=decode-text header */
 .decode-text {
   width: 100%;
-  font-size: 30px;
+  font-size: 48px;
   text-align: center;
 }
 .space {
@@ -344,9 +344,10 @@ div.desc {
   left: 20px;
   cursor: pointer;
 }
-@import url(https://fonts.googleapis.com/css?family=Share+Tech+Mono);
+/* @import url(https://fonts.googleapis.com/css?family=Share+Tech+Mono); */
 div {
-  font-family: "Share Tech Mono", monospace;
+	/* font-family: "Share Tech Mono", monospace; */
+	font-family: 'Segoe UI Black','Arial Black','Arial', sans-serif;
 }
 /* body {
 	height: 100vh;
