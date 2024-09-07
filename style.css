@@ -75,12 +75,11 @@ a.menu:hover {
 	text-decoration: none
 }
 .content {
-	/* background-color: #000000; */
-	/* color: #ffffff; */
-	/* height: calc(100% - 200px); */
 	text-align: center;
 	font-size: 14px;
 	padding: 20px;
+	height: 400px;
+	/* height: calc(100% - 200px); */
 }
 .footer {
 	background-color: #0000ff;
