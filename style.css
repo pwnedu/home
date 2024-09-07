@@ -31,7 +31,7 @@ a.five:hover {
 	text-decoration: none;
 	font-family: "Courier New", Courier, monospace;
 }
-.body {
+body {
 	background-color: #000000;
 	color: #ffffff;
 	font-weight: bold;
