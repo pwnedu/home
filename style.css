@@ -41,10 +41,6 @@ p {
 div.image {
 	margin: 5px;
   	border: none;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 40%;
 }
 div.image:hover {
 	opacity: 80%;
