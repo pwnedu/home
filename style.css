@@ -2,10 +2,10 @@
 	background-color: #000000;
 	color: #ffffff;
 	/* font-weight: bold;
-	font-size: 22px;
+	font-size: 18px;
 	text-decoration: none;
 	font-family: "Courier New", Courier, monospace;
-} */
+}
 h1 {
 	color: #ffffff;
 	text-align: center;
@@ -15,21 +15,29 @@ h1 {
 	font-family: "Courier New", Courier, monospace;
 }
 h2 {
-	color: #aa00ff;
+	color: #ffffff;
 	text-align: center;
 	font-weight: bold;
-	font-size: 18px;
+	font-size: 28px;
+	text-decoration: none;
+	font-family: "Courier New", Courier, monospace;
+}
+h3 {
+	color: #ffffff;
+	text-align: center;
+	font-weight: bold;
+	font-size: 24px;
 	text-decoration: none;
 	font-family: "Courier New", Courier, monospace;
 }
 p {
-	color: #aa00ff;
+	color: #ffffff;
 	text-align: left;
 	font-weight: bold;
-	font-size: 18px;
+	font-size: 14px;
 	text-decoration: none;
 	font-family: "Courier New", Courier, monospace;
-}
+} */
 /* Style class=menu links */
 a.menu:link {
 	color: #b30000;
@@ -57,7 +65,7 @@ a.menu:hover {
 }
 .header {
 	background-color: #0000ff;
-	color: #ffffff;
+	color: #00ff00;
 	padding: 20px;
 	text-align: center;
 	font-weight: bold;
