@@ -3,7 +3,7 @@ body {
 	background-color: #000000;
 	align-items: center;
 	height: 100vh;
-	display: flex;
+	/* display: flex; */
 }
 
 /* Default Styles */
