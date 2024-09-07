@@ -43,6 +43,10 @@ div.image {
   	border: none;
 	width: 256px; 
 	height: 256px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
 }
 div.image:hover {
 	opacity: 80%;
