@@ -54,7 +54,6 @@ a.menu:visited {
 }
 a.menu:hover {
 	text-decoration: underline;
-	transition: .25s ease;
 }
 .menu {
 	color: #ffffff;
@@ -125,7 +124,6 @@ a.menu:hover {
 .image:hover {
 	border: 1px solid #777;
 	opacity: 80%;
-	transition: .25s ease;
 }
 
 .overlay {
@@ -137,7 +135,7 @@ a.menu:hover {
 	overflow: hidden;
 	width: 200%;
 	height: 0;
-	transition: .5s ease;
+	transition: .75s ease;
 }
 
 .container:hover .overlay {
