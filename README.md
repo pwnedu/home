@@ -4,10 +4,8 @@
 > [!NOTE]
 > This site was built in html and css using [GitHub Pages](https://pages.github.com/).
 > 
-> Kiltec's games, software and development tools website [pwnedu.net](https://pwnedu.net).  :shipit:
+> This is Kiltec's games, software and development tools website [pwnedu.net](https://pwnedu.net).  :shipit:
 > 
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pwnedu.net/logo128.png">
