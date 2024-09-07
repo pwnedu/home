@@ -48,6 +48,13 @@ a.menu:visited {
 a.menu:hover {
 	text-decoration: underline;
 }
+.menu {
+	color: #ffffff;
+	text-align: center;
+	padding: 18px;
+	font-family: "Courier New", Courier, monospace;
+	text-decoration: none
+}
 /* Style class=content */
 .header {
 	background-color: #000000;
