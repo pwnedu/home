@@ -116,9 +116,6 @@ a.menu:hover {
 }
 
 .image {
-	/* display: block; */
-	/* width: 100%; */
-	/* height: auto; */
 	display: block;
 	width: 100%; 
 	height: auto;
@@ -137,20 +134,20 @@ a.menu:hover {
 }
 
 .container:hover .overlay {
-  bottom: 0;
-  height: 100%;
+	bottom: 0;
+	height: 100%;
 }
 
 .text {
-  white-space: nowrap; 
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  overflow: hidden;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
+	white-space: nowrap; 
+	color: white;
+	font-size: 20px;
+	position: absolute;
+	overflow: hidden;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
 }
 
 /* Style class=gallery images */
