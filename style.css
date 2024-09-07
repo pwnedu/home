@@ -77,6 +77,7 @@ a.menu:hover {
 .content {
 	/* background-color: #000000; */
 	/* color: #ffffff; */
+	height: calc(100% - 200px);
 	text-align: center;
 	font-size: 14px;
 	padding: 20px;
@@ -96,7 +97,6 @@ a.menu:hover {
 div.image {
 	margin: 5px;
   	border: none;
-	height: calc(100% - 200px);
 }
 div.image:hover {
 	opacity: 80%;
