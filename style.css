@@ -86,7 +86,7 @@ a.menu:hover {
 	padding: 20px;
 	/* change the height value to adjust space */
 	/* height: calc(100% - 200px); */
-	height: 355px; 
+	height: 20px; 
 }
 .footer {
 	background-color: #0000ff;
