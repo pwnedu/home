@@ -124,6 +124,8 @@ a.menu:hover {
 .image:hover {
 	border: 1px solid #777;
 	opacity: 80%;
+	left: -50%;
+	width: 200%;
 }
 
 .overlay {
