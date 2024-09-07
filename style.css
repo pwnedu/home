@@ -99,7 +99,7 @@ a.menu:hover {
   	border: none;
 }
 .logo:hover {
-	opacity: 80%;
+	opacity: 75%;
 }
 .logo img {
 	width: 256px; 
@@ -123,7 +123,7 @@ a.menu:hover {
 
 .image:hover {
 	border: 1px solid #777;
-	opacity: 80%;
+	opacity: 75%;
 }
 
 .overlay {
