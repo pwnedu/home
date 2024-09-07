@@ -58,9 +58,10 @@ a.menu:hover {
 .menu {
 	color: #ffffff;
 	text-align: center;
+	padding: 20px;
 	font-size: 18px;
 	font-family: "Courier New", Courier, monospace;
-	text-decoration: none
+	text-decoration: none;
 }
 
 /* Style class=content sections */
