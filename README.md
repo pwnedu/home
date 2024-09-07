@@ -1,7 +1,7 @@
 # pwnedu-home
 
 > [!NOTE]
-> This site was built in html and css using [GitHub Pages](https://pages.github.com/).
+> This site was built in css and html using [GitHub Pages](https://pages.github.com/).
 > 
 > This is Kiltec's games, software and development tools website [pwnedu.net](https://pwnedu.net).  :shipit:
 > 
