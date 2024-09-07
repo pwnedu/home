@@ -77,7 +77,7 @@ a.menu:hover {
 .content {
 	/* background-color: #000000; */
 	/* color: #ffffff; */
-	height: calc(100% - 200px);
+	/* height: calc(100% - 200px); */
 	text-align: center;
 	font-size: 14px;
 	padding: 20px;
@@ -133,7 +133,7 @@ a.menu:hover {
 	right: 0;
 	background-color: #008CBA;
 	overflow: hidden;
-	width: 100%;
+	width: 200%;
 	height: 0;
 	transition: .5s ease;
 }
