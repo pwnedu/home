@@ -3,7 +3,6 @@ body {
 	background-color: #000000;
 	align-items: center;
 	height: 100vh;
-	/* display: flex; */
 }
 
 /* Default Styles */
@@ -289,68 +288,3 @@ div.desc {
 		transform: scaleX(0);
 	}
 }
-
-/* Style class=decode-text header */
-.decode-text {
-  width: 100%;
-  font-size: 48px;
-  text-align: center;
-}
-.space {
-  display: inline-block;
-  width: 10px;
-}
-.text-animation {
-  display: inline-block;
-  position: relative;
-  color: transparent;
-  text-transform: uppercase;
-  &:before {
-    content: "";
-    color: #0000ff;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    background: #00ff00;
-    width: 0;
-    height: 1.2em;
-    -webkit-transform: translate(-50%, -55%);
-    -ms-transform: translate(-50%, -55%);
-    transform: translate(-50%, -55%);
-  }
-
-  &.state-1 {
-    &:before {
-      width: 1px;
-    }
-  }
-  &.state-2 {
-    &:before {
-      width: 0.9em;
-    }
-  }
-  &.state-3 {
-    color: #00ff00;
-    &:before {
-      width: 0;
-    }
-  }
-}
-
-// demo styles
-#refresh {
-  position: absolute;
-  top: 20px;
-  left: 20px;
-  cursor: pointer;
-}
-/* @import url(https://fonts.googleapis.com/css?family=Share+Tech+Mono); */
-div {
-	/* font-family: "Share Tech Mono", monospace; */
-	font-family: 'Segoe UI Black','Arial Black','Arial', sans-serif;
-}
-/* body {
-	height: 100vh;
-	align-items: center;
-	display: flex;
-} */
