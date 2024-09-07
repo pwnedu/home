@@ -51,7 +51,7 @@ a.menu:hover {
 .menu {
 	color: #ffffff;
 	text-align: center;
-	padding: 18px;
+	font-size: 18px;
 	font-family: "Courier New", Courier, monospace;
 	text-decoration: none
 }
