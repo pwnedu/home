@@ -68,6 +68,10 @@ a.menu:hover {
 	font-family: "Courier New", Courier, monospace;
 	text-decoration: none;
 }
+.menuimg {
+	width: 20px;
+	height: 20px;
+}
 
 /* Style class=content sections */
 .header {
